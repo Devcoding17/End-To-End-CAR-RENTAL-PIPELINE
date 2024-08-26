@@ -1,4 +1,4 @@
-## Car Rental Batch Data Ingestion with SCD2 Merge in Snowflake 🚗💨
+## 🚗💨 Car Rental Batch Data Ingestion with SCD2 Merge in Snowflake ❄
 
 ## Overview
 
